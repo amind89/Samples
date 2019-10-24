@@ -12,13 +12,7 @@ Created on Mon Sep  9 09:37:49 2019
 Created on Mon Aug 26 11:29:11 2019
 
 @author: amin
-"""
 
-"""
-Keras implementation for Deep Embedded Clustering (DEC) algorithm:
-
-Original Author:
-    Xifeng Guo. 2017.1.30
 """
 
 
